@@ -3,6 +3,7 @@
 2. Update directory path in Xcode Project if it's not compile
 3. Make sure to install all required libary if it's still not complie
 
+#Important Need a Apple developer account in order to run the project
 
 # libraries
 [requires]
