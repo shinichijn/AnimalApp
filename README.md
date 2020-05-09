@@ -20,5 +20,5 @@ Then using the new workspace file for the project --light bule one
 # use Xcode
 [requires]
 Use most updated version
-Run any iphone simulation
+Run any iphone simulation  
 
