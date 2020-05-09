@@ -1,3 +1,9 @@
+This the IOS app application for animal photo detection app
+
+Cal state fullerton Spring CSPS462
+
+Name: JING NIE
+
 # run Important Need a Apple developer account in order to run the project
 1. Make sure mac book is most updated version
 2. Update directory path in Xcode Project if it's not compile
@@ -7,10 +13,13 @@
 # libraries
 [requires]
 First install CocoaPods
+
 Then, use CocoaPods to install below libary
+
 1 'RealmSwift','~> 2.0'
 2 'Alamofire', '~> 4.0'
 3 'SwiftyJSON'
+
 Then using the new workspace file for the project --light bule one
 
 
